@@ -48,7 +48,7 @@ python Net_Sampling_Heuristic.py
 
 All python files are written using packages downloaded from Anaconda Distribution.
 
-To use the heuristic, follow the instructions in the file [ReadMe-StepsForRunningTheHeuristic.txt](https://github.com/abhi-public/2024.1002/blob/main/FinalPrograms/ReadMe-StepsForRunningTheHeuristic.txt).
+To use the heuristic, follow the instructions in the file [ReadMe-StepsForRunningTheHeuristic.txt](https://github.com/abhi-public/Network-Sampling/blob/main/ReadMe-StepsForRunningTheHeuristic.txt).
   
 ## Replicating
 
