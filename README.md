@@ -8,7 +8,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
 [Degree Distribution Preserving Network Sampling: The Case of Relational Learning](https://doi.org/10.1287/ijoc.2024.1002) by A. Ghoshal, S. Menon, and S. Sarkar. 
-The snapshot is based on [this SHA](https://github.com/abhi-public/2024.1002) 
+The snapshot is based on [this SHA](https://github.com/abhi-public/Network-Sampling) 
 in the development repository. 
 
 
@@ -65,4 +65,4 @@ This code is being developed on an on-going basis at the author's
 ## Support
 
 For support in using this software, submit an
-[issue](https://github.com/abhi-public/2024.1002/issues/new).
+[issue](https://github.com/abhi-public/Network-Sampling/issues/new).
